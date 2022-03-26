@@ -10,11 +10,15 @@ Basic look of dataset, data cleaning, correct data type.
 ## Part2: Visualization
 
 ![](/images/截圖%202022-03-26%20上午10.01.57.png)<br>
+We can observe that movies and TV shows dramatically increase in the past decade. However, it slowed down since 2019.<br>
+It should be influenced by COVIN-19 in 2019.<br><br>
+In top 10 countries, USA and UK are not surprisingly in top 1 and top 3, but India is top 2.<br>
 
 ---
-
 ![](/images/movies%20and%20tv%20shows%20difference.png)<br>
-Line1
+Line1<br>
+
+
 ---
 
 ![](/images/Offset.png)<br>
