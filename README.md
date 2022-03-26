@@ -9,6 +9,6 @@ Basic look of dataset, data cleaning, correct data type.
 
 ## Part2: Visualization
 1. Overall Picture<br>
-![](/images/added over time.png)
+![](#/images/added over time.png)
 2. Difference in Movies and TV Shows
 3. Changes after 2019
