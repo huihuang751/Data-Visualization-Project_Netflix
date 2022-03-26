@@ -9,6 +9,6 @@ Basic look of dataset, data cleaning, correct data type.
 
 ## Part2: Visualization
 1. Overall Picture<br>
-![](/images/added%20over%20time.png) ![](/images/top10%20countries.png)
+![](/images/截圖%202022-03-26%20上午10.01.57.png)
 2. Difference in Movies and TV Shows
 3. Changes after 2019
